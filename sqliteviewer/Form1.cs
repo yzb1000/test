@@ -27,7 +27,7 @@ namespace sqliteviewer
             string sql ;
             SQLiteCommand command ;
             
-            //0414
+
             sql = "select name from sqlite_master where type='table' order by name";
             command = new SQLiteCommand(sql, m_dbConnection);
             SQLiteDataReader reader = command.ExecuteReader();
