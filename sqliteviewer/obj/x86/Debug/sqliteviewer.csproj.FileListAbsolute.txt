@@ -1,8 +1,0 @@
-D:\zbyan\sqliteviewer\sqliteviewer\bin\Debug\sqliteviewer.exe
-D:\zbyan\sqliteviewer\sqliteviewer\bin\Debug\sqliteviewer.pdb
-D:\zbyan\sqliteviewer\sqliteviewer\obj\x86\Debug\sqliteviewer.csprojResolveAssemblyReference.cache
-D:\zbyan\sqliteviewer\sqliteviewer\obj\x86\Debug\sqliteviewer.Form1.resources
-D:\zbyan\sqliteviewer\sqliteviewer\obj\x86\Debug\sqliteviewer.Properties.Resources.resources
-D:\zbyan\sqliteviewer\sqliteviewer\obj\x86\Debug\sqliteviewer.csproj.GenerateResource.Cache
-D:\zbyan\sqliteviewer\sqliteviewer\obj\x86\Debug\sqliteviewer.exe
-D:\zbyan\sqliteviewer\sqliteviewer\obj\x86\Debug\sqliteviewer.pdb
